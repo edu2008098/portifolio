@@ -1,4 +1,11 @@
 header {
     text-align: center;
-    background-color: rgb(red, rgb(12, 255, 12), rgb(17, 17, 248))
+    background-color: red
+    (140, 0, 255);
+    padding: 30px;
+}
+h1 {
+    font-size: 30px;
+    
+
 }
